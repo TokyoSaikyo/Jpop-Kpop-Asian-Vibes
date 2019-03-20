@@ -643,7 +643,7 @@ a[href='www.nyanpass.com'] {
 }
 
 .is-leave .btn-no-dj-secondary.btn-no-dj-secondary__bottom {
-  background-color: var(--k-back);
+  background-color: #ff4b19;
   color: var(--k-color);
 }
 
